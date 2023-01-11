@@ -35,3 +35,5 @@ task 15 i was checking for the leaf wrong i felt like, so i went for a cleaner a
 task 16 is a swift combo of balance and fullness. one line function. i was actually wrong, the full function i created is pretty troll in some circumstances which made it hard for me tu use it now. i had t o use the height function to check for the height of the left and right nodes and check if they were the same, too bad i couldnt get the one liner
 
 task 17 its  nice to be back at something that is quite easy like this. i hardcoded it but i woner if there might be a way to make it cleaner than what i did. in any case im off to task 18
+
+task 18 just like your uncle in real life, this is just the sibling of your parent. so i use the prior function to get it in a nice one liner
