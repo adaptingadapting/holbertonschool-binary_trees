@@ -32,4 +32,4 @@ task 14 all i did was remove the leaf protection from task 9 so it would count a
 
 task 15 i was checking for the leaf wrong i felt like, so i went for a cleaner approach and the return was the key
 
-task 16 is a swift combo of balance and fullness. one line function
+task 16 is a swift combo of balance and fullness. one line function. i was actually wrong, the full function i created is pretty troll in some circumstances which made it hard for me tu use it now. i had t o use the height function to check for the height of the left and right nodes and check if they were the same, too bad i couldnt get the one liner
