@@ -11,3 +11,5 @@ task 3 i tried first with conditions but it would yield me one malloc without fr
 task 4 i didnt know what a leaf was but im glad i got it with the context, another trivial task, it could be done in two lines but for the sake of understandability if thats a word i did it in 4, how could it be done in 2? probably by packing the checking for existence of node and the existence of right and left in one sweep
 
 task 5 is very similar to task 4 also in the way that i solved it and also in how i could have done it in less lines, so im not going to elaborate
+
+task 6 reminded me of the delete one, i knew that i was going to put the print function on top beacause the root node must be parsed over first, i know that that is going to be the only difference really, as if i need to print it in between ill just put it in the middle of the recursions and if i need to do it last itll go at the bottom of the function
