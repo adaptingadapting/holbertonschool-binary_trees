@@ -23,3 +23,5 @@ task 9 thing aobut nine is that you have to check whetehr the last one is a leaf
 task 10 i got quite quickly of course considering its very very similar to the last one and it has a similar idea of returning 0 before the end beacuase the last one will be root
 
 task 11 i tried taking from task 10 and the other ones and i did but now i realize i couldve done it without the variable declaration. too bad. still, i dont think that was i did is a terrorist move. its fine and its understandable
+
+task 12 now i followed my own adivce from task 11 and i put everything in the return. feels good
