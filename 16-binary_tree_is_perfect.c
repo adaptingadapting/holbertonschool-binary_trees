@@ -10,7 +10,7 @@ size_t binary_tree_height(const binary_tree_t *tree);
 
 int binary_tree_is_perfect(const binary_tree_t *tree)
 {
-	return (binary_tree_is_full(tree) && !binary_tree_balance(tree));
+	return ((binary_tree_is_full(tree)) && !(binary_tree_balance(tree)));
 }
 
 /**
