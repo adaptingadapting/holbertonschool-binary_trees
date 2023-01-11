@@ -27,3 +27,5 @@ task 11 i tried taking from task 10 and the other ones and i did but now i reali
 task 12 now i followed my own adivce from task 11 and i put everything in the return. feels good
 
 task 13 again i put it all there, my first iteration was where i returned 1 if i found a node with a child insde the recursion but that just always returned 1 at the end so what i did was just add 1 per node and that solved it, apart from my original solution
+
+task 14 all i did was remove the leaf protection from task 9 so it would count as a node and then return the height substracion. pretty good. i had to remove the leaf protection beacuse if not height of 128 would return 0
