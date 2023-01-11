@@ -25,3 +25,5 @@ task 10 i got quite quickly of course considering its very very similar to the l
 task 11 i tried taking from task 10 and the other ones and i did but now i realize i couldve done it without the variable declaration. too bad. still, i dont think that was i did is a terrorist move. its fine and its understandable
 
 task 12 now i followed my own adivce from task 11 and i put everything in the return. feels good
+
+task 13 again i put it all there, my first iteration was where i returned 1 if i found a node with a child insde the recursion but that just always returned 1 at the end so what i did was just add 1 per node and that solved it, apart from my original solution
