@@ -31,3 +31,5 @@ task 13 again i put it all there, my first iteration was where i returned 1 if i
 task 14 all i did was remove the leaf protection from task 9 so it would count as a node and then return the height substracion. pretty good. i had to remove the leaf protection beacuse if not height of 128 would return 0
 
 task 15 i was checking for the leaf wrong i felt like, so i went for a cleaner approach and the return was the key
+
+task 16 is a swift combo of balance and fullness. one line function
