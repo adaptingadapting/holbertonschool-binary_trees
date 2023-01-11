@@ -15,3 +15,7 @@ task 5 is very similar to task 4 also in the way that i solved it and also in ho
 task 6 reminded me of the delete one, i knew that i was going to put the print function on top beacause the root node must be parsed over first, i know that that is going to be the only difference really, as if i need to print it in between ill just put it in the middle of the recursions and if i need to do it last itll go at the bottom of the function
 
 task 7 indeed it was the case where i only needed to change the position of the executing function. very nice and easy and i did not copy paste this time, as i said i dont like doing that
+
+task 8 again all i did was switch the position of the function pointer one place below
+
+task 9 thing aobut nine is that you have to check whetehr the last one is a leaf or not before recursing into it, id say thats the only hard part, you come up with this solution of height 1 and 2 i think out of nescessity pretty quickly. it reminds me of the excercise in recursive functions we did where we had to return the lenght of a string, so i drew inspiration from that one from the start
