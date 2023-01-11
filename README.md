@@ -9,3 +9,5 @@ task 2 i generally dont copy paste my own work beacause i do see some value in w
 task 3 i tried first with conditions but it would yield me one malloc without freeing, i realized that i was checking for the existence of tree->left but i was calling the function recursively with tree->left so one would always miss my grasp, this way its much simpler and no if were nescessary
 
 task 4 i didnt know what a leaf was but im glad i got it with the context, another trivial task, it could be done in two lines but for the sake of understandability if thats a word i did it in 4, how could it be done in 2? probably by packing the checking for existence of node and the existence of right and left in one sweep
+
+task 5 is very similar to task 4 also in the way that i solved it and also in how i could have done it in less lines, so im not going to elaborate
